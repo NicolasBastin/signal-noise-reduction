@@ -1,4 +1,4 @@
-# Active Noise Cancellation (ANC) via LMS Adaptive Filtering 🎧
+# Active Noise Cancellation (ANC) via LMS Adaptive Filtering
 
 ## Project Overview
 This repository contains the source code for my research project (TIPE) on Active Noise Cancellation (ANC). The goal of this project was to understand, mathematically model, and programmatically implement the noise reduction phenomena used in modern ANC headphones. 
